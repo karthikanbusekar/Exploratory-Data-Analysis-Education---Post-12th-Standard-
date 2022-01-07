@@ -8,4 +8,3 @@ EDA includes following steps
 * Describe Data 
 * Data pre-processing (check for missing values and Anamolies) 
 * Data Visualization 
-* Data Preparation(outlier treatment and Label encoding)
